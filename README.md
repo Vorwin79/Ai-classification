@@ -21,3 +21,9 @@
 Открыть aircraft_classification.ipynb и последовательно выполнить ячейки.
 
 
+## Файлы
+aircraft_classification.ipynb — Jupyter Notebook с решением задачи.
+results_both_models.csv — таблица с результатами предсказаний моделей.
+final_report.txt — отчет с метриками и анализом ошибок.
+requirements.txt — перечень зависимостей проекта.
+planes/ — набор изображений для тестирования
