@@ -1,0 +1,18 @@
+=== Сравнение моделей ===
+
+       Model Valid  Accuracy  Precision  Recall     F1
+       llava 30/30       0.9     0.9286  0.8667 0.8966
+minicpm-v4.5 30/30       0.9     0.8333  1.0000 0.9091
+
+
+=== Ошибки llava (3 шт.) ===
+                                                             file_name true_label llava
+                                112f18e12f95a6aec6281f33fcead800_x.jpg          M     C
+1641063729_19-hdpic-club-p-samoleti-pervoi-mirovoi-voini-foto-60_x.jpg          M     C
+                                                      efae6a9e77_y.jpg          C     M
+
+=== Ошибки minicpm-v4.5 (3 шт.) ===
+           file_name true_label minicpm-v4.5
+         i (4)_y.jpg          C            M
+scale_1200 (3)_y.jpg          C            M
+       stal3-2_y.jpg          C            M

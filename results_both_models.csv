@@ -1,0 +1,31 @@
+image_path,true_label,pred_llava,pred_minicpm-v4.5,file_name
+planes\112f18e12f95a6aec6281f33fcead800_x.jpg,M,C,M,112f18e12f95a6aec6281f33fcead800_x.jpg
+planes\1641063729_19-hdpic-club-p-samoleti-pervoi-mirovoi-voini-foto-60_x.jpg,M,C,M,1641063729_19-hdpic-club-p-samoleti-pervoi-mirovoi-voini-foto-60_x.jpg
+planes\1765147_original_y.jpg,C,C,C,1765147_original_y.jpg
+planes\264460_x.jpg,M,M,M,264460_x.jpg
+planes\2_x.jpg,M,M,M,2_x.jpg
+planes\31-su-30_x.jpg,M,M,M,31-su-30_x.jpg
+planes\39393_y.jpg,C,C,C,39393_y.jpg
+planes\3dcb8das-960_y.jpg,C,C,C,3dcb8das-960_y.jpg
+planes\5c05f1e4002b3975232ed2c874357b9a_x.jpg,M,M,M,5c05f1e4002b3975232ed2c874357b9a_x.jpg
+planes\600_01K5HG913YS6TSFJ7B5B2JTJB5_x.jpg,M,M,M,600_01K5HG913YS6TSFJ7B5B2JTJB5_x.jpg
+planes\6389292405260ae135beb3413f9d590a_x.png,M,M,M,6389292405260ae135beb3413f9d590a_x.png
+planes\F-15C_над_Тихим_океаном_x.jpg,M,M,M,F-15C_над_Тихим_океаном_x.jpg
+planes\a4f16377ec1bb6525e495c3778365668_y.jpg,C,C,C,a4f16377ec1bb6525e495c3778365668_y.jpg
+planes\ac609fb7d5a26eb1c9acad3d048aec9b_y.jpg,C,C,C,ac609fb7d5a26eb1c9acad3d048aec9b_y.jpg
+planes\efae6a9e77_y.jpg,C,M,C,efae6a9e77_y.jpg
+planes\fdcecce54a92e2d1b4d906b951a192a8_y.jpg,C,C,C,fdcecce54a92e2d1b4d906b951a192a8_y.jpg
+planes\i (4)_x.jpg,M,M,M,i (4)_x.jpg
+planes\i (4)_y.jpg,C,C,M,i (4)_y.jpg
+planes\i (5)_x.jpg,M,M,M,i (5)_x.jpg
+planes\i (5)_y.jpg,C,C,C,i (5)_y.jpg
+planes\i (6)_x.jpg,M,M,M,i (6)_x.jpg
+planes\i (7)_x.jpg,M,M,M,i (7)_x.jpg
+planes\i5959_y.jpg,C,C,C,i5959_y.jpg
+planes\q90_651642_3a2e49fd6057d756a65afb1dd_y.jpeg,C,C,C,q90_651642_3a2e49fd6057d756a65afb1dd_y.jpeg
+planes\scale_1200 (3)_y.jpg,C,C,M,scale_1200 (3)_y.jpg
+planes\sjcglq46aehpkrpp_y.jpg,C,C,C,sjcglq46aehpkrpp_y.jpg
+planes\stal3-2_y.jpg,C,C,M,stal3-2_y.jpg
+planes\test__x.jpg,M,M,M,test__x.jpg
+planes\v5qvkn2d_s_y.jpg,C,C,C,v5qvkn2d_s_y.jpg
+planes\yak-130_x.jpg,M,M,M,yak-130_x.jpg
